@@ -1,3 +1,1 @@
-# theozona-app
-#Mern project
-#E-Commerce marketplace
+#E-Commerce marketplace mern project
